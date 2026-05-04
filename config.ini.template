@@ -1,0 +1,29 @@
+[auth]
+username = 
+password = 
+
+[download]
+base_download_dir = 
+
+[ipks]
+prefixes = cameraplayer-client,
+            libhavl-func-systemtests-targetfiles,
+            libhavl-func-sp21-systemtests-targetfiles,
+            libhavl-func-sp25-systemtests-targetfiles,
+            libhavl-samples,
+            libbmw.dass.parking.stub,
+            libde.bmw.dass.parking.parkmenu.parkmenuandlayout.stub,
+            libencode-omx-examples,
+            videoexport-client,
+            libblur-examples,
+            videotranscoder-client
+
+[svts]
+variants = SVT_IDCEVO-WITH_SWITCH.xml,
+            SVT_IDCEVO-WITH_SWITCH_NA5_EVO.xml,
+            SVT_IDCEVO-WITHOUT_SWITCH.xml,
+            SVT_IDCEVO-WITHOUT_SWITCH_NA5_EVO.xml,
+            svt_RSE_EXBX-02.xml,
+		    svt_CDE-01.xml,
+		    SVT_IDCEVO-WITH_SWITCH_U11_EVO.xml,
+		    SVT_IDCEVO-WITHOUT_SWITCH_NA5_EVO.xml

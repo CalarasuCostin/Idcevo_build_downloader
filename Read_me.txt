@@ -3,6 +3,7 @@
  - Install Python modules via Cmd: pip install requests bs4 tqdm (for linux use: python3 -m pip install beautifulsoup4 requests tqdm)
 
 ### Configure the config.ini file ###
+ - Copy config.ini.template to config.ini
  - Insert Artifactory username and password (token generated in artifactory)
  - Set your destination folder where the build subfolder will be created (Ex: D:\Builds\Idcevo)
 
